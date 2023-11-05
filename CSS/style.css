@@ -10,14 +10,33 @@ footer {
   .card {
   
   }
-  .signUp {
-    margin: 35px auto;
-    background-color: #f2f2f2;
-    padding: 25px;
-    border-radius: 7px;
-    width: 50%;
+
+  .content {
+    padding:50%
   }
-  
+
+  .sectionHeading {
+    text-align: center;
+  }
+
+  .previousWork {
+    padding: 0% 30px 30px 30px;
+  }
+
+  .cardContainer {
+    text-align: center;
+  }
+
+  .jumbotron {
+    background-image: url("../Images/arcade.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+
+  .bg-body-tertiary {
+    --bs-bg-opacity:0 !important
+  }
+
   h1, h2, h3, h4, h5, h6 {
     font-family: 'Anton', sans-serif;
   }
@@ -68,6 +87,18 @@ footer {
   .navCTA {
     font-size: 15px;
   }
+
+  .text-white {
+    color: white;
+  }
+
+  .p-5 {
+    padding-top: 6rem !important;
+  }
+
+  .navbar-toggler {
+    background-color: aquamarine;
+  }
   
   /* STYLES FOR TEMPLATE PLEASE DO NOT TOUCH*/
   .dropdown-menu {
@@ -87,4 +118,4 @@ footer {
   .card {
     margin: 0 auto;
   }
-  
+   
