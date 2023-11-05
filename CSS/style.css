@@ -33,6 +33,21 @@ footer {
     background-position: center;
   }
 
+  .card1 {
+    margin-right: 0%;
+    margin-left: auto;
+  }
+
+  .card2 {
+    margin-right: auto;
+    margin-left: 0%;
+  }
+
+  .card-img-top {
+    height: 160px;
+    width: 240px;
+  }
+
   .bg-body-tertiary {
     --bs-bg-opacity:0 !important
   }
