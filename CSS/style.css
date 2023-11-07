@@ -59,7 +59,11 @@ footer {
   h2 {
     margin-top: 15px;
   }
-  
+
+  #skillsSection {
+    padding-top: 20px;
+  }
+
   p {
     font-family: 'Jura', sans-serif;
   }
